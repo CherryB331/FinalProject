@@ -3,7 +3,7 @@ body {
     }
 
     .section-box {
-      border: 1px solid #070707;
+      border: 5px solid #070707;
       padding: 30px;
       height: 100%;
       display: flex;
@@ -12,7 +12,7 @@ body {
     }
 
     .inner-title {
-      border: 1px solid #050505;
+      border: 2px solid #050505;
       padding: 10px 20px;
       display: inline-block;
       margin-bottom: 20px;
@@ -21,10 +21,12 @@ body {
     }
 
     .custom-btn {
-      border: 1px solid #e9c307;
+      border: 5px solid #e9c307;
       background: none;
       padding: 10px;
       width: 100%;
+      background-color: #e9c307;
+      font-weight: bold;
     }
 
     .top-bar {
