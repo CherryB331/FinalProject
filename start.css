@@ -36,7 +36,12 @@ body {
       margin-bottom: 40px;
     }
 .website-title {
-        font-size: 38px;
+        font-size: 28px;
         font-weight: bold;
         color: #ffffff;
+}
+@media (max-width: 768px) {
+  .col-md-4 {
+    margin-bottom: 20px;
+  }
 }

@@ -1,35 +1,40 @@
 .website-title {
-        font-size: 28px;
+        font-size: 38px;
         font-weight: bold;
+      background-color: #4e7ba7;
+        color: #ffffff;
 }
 body{
     background-color: #f9f984;
 }
 .box {
-            border: 1px solid #333;
+            border: 5px solid #092567;
             padding: 20px;
         }
 .title-box {
-            border: 1px solid #333;
+            border: 1px solid #092567;
             display: inline-block;
             padding: 10px 20px;
             margin-bottom: 20px;
+            background-color: #4e7ba7;
+            color: #ffffff;
         }
-.custom-btn {
-            border: 5px solid #e9c307;
+.navBtn {
+            border: 5px solid #3d6084;
             background: none;
             padding: 10px;
             width: 100%;
-            background-color: #e9c307;
+            background-color: #4e7ba7;
             font-weight: bold;
         }
 .side-bar{
-            border: 1px solid #333;
-            padding: 15px;
+            border: 5px solid #092567;
+            padding: 30px;
             margin-bottom: 20px;
+            background-color: #e9e963;
         }
 .sidebar-title {
-            border: 1px solid #333;
+            border: 5px solid #092567;
             display: inline-block;
             padding: 10px 20px;
             margin-bottom: 20px;
