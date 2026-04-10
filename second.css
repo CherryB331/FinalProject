@@ -2,3 +2,36 @@
         font-size: 28px;
         font-weight: bold;
 }
+body{
+    background-color: #f9f984;
+}
+.box {
+            border: 1px solid #333;
+            padding: 20px;
+        }
+.title-box {
+            border: 1px solid #333;
+            display: inline-block;
+            padding: 10px 20px;
+            margin-bottom: 20px;
+        }
+.custom-btn {
+            border: 5px solid #e9c307;
+            background: none;
+            padding: 10px;
+            width: 100%;
+            background-color: #e9c307;
+            font-weight: bold;
+        }
+.side-bar{
+            border: 1px solid #333;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+.sidebar-title {
+            border: 1px solid #333;
+            display: inline-block;
+            padding: 10px 20px;
+            margin-bottom: 20px;
+        }
+        
