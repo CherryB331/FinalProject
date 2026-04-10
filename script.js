@@ -1,13 +1,18 @@
-document.getElementById("home-btn").addEventListener("click", function() {
-    window.location.href = "/Users/briannacherry/FinalProject/index.html";
+console.log(document.getElementById("homeBtn"));
+
+
+
+document.getElementById("homeBtn").addEventListener("click", function() {
+    window.location.href = "index.html";
 })
-document.getElementById("resources-btn").addEventListener("click", function() {
-    window.location.href = "/Users/briannacherry/FinalProject/Resources.html";
+document.getElementById("resourcesBtn").addEventListener("click", function() {
+    window.location.href = "Resources.html";
 })
-document.getElementById("thingstodo-btn").addEventListener("click", function() {
-    window.location.href = "/Users/briannacherry/FinalProject/Thingstodo.html";
+document.getElementById("thingstodoBtn").addEventListener("click", function() {
+    window.location.href = "Thingstodo.html";
 })
-document.getElementById("possibilities-btn").addEventListener("click", function() {
-    window.location.href = "/Users/briannacherry/FinalProject/Possibilities.html";
+document.getElementById("possibilitiesBtn").addEventListener("click", function() {
+    window.location.href = "Possibilities.html";
 })
+
 
