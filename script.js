@@ -11,8 +11,6 @@ document.getElementById("resourcesBtn").addEventListener("click", function() {
 document.getElementById("thingstodoBtn").addEventListener("click", function() {
     window.location.href = "Thingstodo.html";
 })
-document.getElementById("possibilitiesBtn").addEventListener("click", function() {
-    window.location.href = "Possibilities.html";
-})
+
 
 
