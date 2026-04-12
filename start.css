@@ -38,10 +38,20 @@ body {
 .website-title {
         font-size: 28px;
         font-weight: bold;
-        color: #ffffff;
+        color: #42688f;
+        background-color: #e9c307;
+        border: 2px solid #42688f;
+        padding: 10px 20px;
 }
 @media (max-width: 768px) {
   .col-md-4 {
     margin-bottom: 20px;
   }
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border: 5px solid #e9c307;
+  display: block;
+  margin: 0 auto;
 }
