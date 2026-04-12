@@ -12,7 +12,7 @@ body{
             padding: 20px;
         }
 .title-box {
-            border: 1px solid #092567;
+            border: 3px solid #092567;
             display: inline-block;
             padding: 10px 20px;
             margin-bottom: 20px;
@@ -52,3 +52,18 @@ body{
             text-decoration: none;
             font-weight: bold;
         }
+img {
+            border: 3px solid #092567
+    }
+li {
+            color:#092567   
+        }
+h3 {
+            color: #092567;
+            font-weight: bold;
+}
+.header {
+            font-size: 28px;
+            font-weight: bold;
+            color: #092567;
+} 
