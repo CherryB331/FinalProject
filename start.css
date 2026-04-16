@@ -55,10 +55,11 @@ img {
   display: block;
   margin: 0 auto;
 }
-#datetime{
+#weather{
   border-color: #e9c307;
   border: 2px solid #e9c307;
   padding: 10px 20px;
   color:#42688f;
   background-color: #ffffff;
+  text-align: center;
 }

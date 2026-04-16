@@ -1,7 +1,7 @@
 document.querySelectorAll('.navBtn').forEach(button => {
     button.addEventListener('click', () => { window.location.href = button.dataset.link });
 });
-const weatherElement = document.getElementById("datetime");
+const weatherElement = document.getElementById("weather");
 
 const apiKey = "693634fe8da64884988506a726f576e9";
 const city = "Winston-Salem";
