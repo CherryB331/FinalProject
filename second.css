@@ -74,3 +74,10 @@ h3 {
   background-color: #ffffff;
   text-align: center;
 }
+#datetime{
+  border: 2px solid #092567;
+  padding: 10px 20px;
+  color:#42688f;
+  background-color: #ffffff;
+  text-align: center;
+}

@@ -20,3 +20,8 @@ fetch(`https://api.weatherstack.com/current?access_key=${apiKey}&query=${city}`)
     weatherElement.textContent = "Unable to load weather data.";
     console.error(error);
   });
+const timeDate = new Date();
+const date = timeDate.toLocaleDateString();
+console.log(date);
+const dateDisplay = document.getElementById("datetime");
+dateDisplay.textContent = `${date}`;
